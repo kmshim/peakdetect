@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PeakDetect", "ConsoleApplication1.vcxproj", "{B93E7CDE-8A34-4642-8837-24A5D3D987CC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PeakDetectSetup", "..\PeakDetectSetup\PeakDetectSetup.vdproj", "{82C40073-09A7-4DB7-AFD4-056CA56BAF9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B93E7CDE-8A34-4642-8837-24A5D3D987CC}.Debug|x64.ActiveCfg = Debug|x64
+		{B93E7CDE-8A34-4642-8837-24A5D3D987CC}.Debug|x64.Build.0 = Debug|x64
+		{B93E7CDE-8A34-4642-8837-24A5D3D987CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B93E7CDE-8A34-4642-8837-24A5D3D987CC}.Debug|x86.Build.0 = Debug|Win32
+		{B93E7CDE-8A34-4642-8837-24A5D3D987CC}.Release|x64.ActiveCfg = Release|x64
+		{B93E7CDE-8A34-4642-8837-24A5D3D987CC}.Release|x64.Build.0 = Release|x64
+		{B93E7CDE-8A34-4642-8837-24A5D3D987CC}.Release|x86.ActiveCfg = Release|Win32
+		{B93E7CDE-8A34-4642-8837-24A5D3D987CC}.Release|x86.Build.0 = Release|Win32
+		{82C40073-09A7-4DB7-AFD4-056CA56BAF9F}.Debug|x64.ActiveCfg = Debug
+		{82C40073-09A7-4DB7-AFD4-056CA56BAF9F}.Debug|x86.ActiveCfg = Debug
+		{82C40073-09A7-4DB7-AFD4-056CA56BAF9F}.Release|x64.ActiveCfg = Release
+		{82C40073-09A7-4DB7-AFD4-056CA56BAF9F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {451BD91C-1EC0-41BB-A8CF-D07C3B2AA3E8}
+	EndGlobalSection
+EndGlobal
